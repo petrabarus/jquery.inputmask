@@ -1,0 +1,11 @@
+{
+    "name": "petrabarus/replace-bower-jquery.inputmask",
+    "description": "Relaces bower jQuery inputmask.",
+    "authors": [
+        {
+            "name": "Petra",
+            "email": "petra.barus@gmail.com"
+        }
+    ],
+    "require": {}
+}
