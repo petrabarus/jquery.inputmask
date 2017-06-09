@@ -1,5 +1,6 @@
 {
     "name": "petrabarus/replace-bower-jquery.inputmask",
+    "replaces": "bower-asset/jquery.inputmask",
     "description": "Relaces bower jQuery inputmask.",
     "authors": [
         {
